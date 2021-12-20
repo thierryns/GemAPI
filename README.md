@@ -21,7 +21,7 @@ HOW TO USE
 
 HOW TO USE (DOCKER)
 1) ...
-In the run dropdown, where IIS EXpress was previously selected, now select Docker instead
+In the run dropdown, where IIS EXpress was previously selected, now select Docker instead and RUN 
 2) Once running, it loads a SWAGGER page but on a different HTTP port (provided from the docker container)
 
 
