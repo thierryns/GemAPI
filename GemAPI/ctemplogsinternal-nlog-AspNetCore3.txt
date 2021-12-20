@@ -22,3 +22,19 @@
 2021-12-20 12:29:18.2912 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=58, FilePath=/app/bin/Debug/netcoreapp3.1/NLog.config
 2021-12-20 12:29:18.3187 Info Configuration initialized.
 2021-12-20 12:29:18.3288 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-20 13:00:51.5982 Info Message Template Auto Format enabled
+2021-12-20 13:00:51.6256 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 13:00:51.6938 Info Adding target FileTarget(Name=allfile)
+2021-12-20 13:00:51.7011 Info Adding target FileTarget(Name=ownFile-web)
+2021-12-20 13:00:51.7011 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-12-20 13:00:51.7447 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=58, FilePath=/app/bin/Debug/netcoreapp3.1/NLog.config
+2021-12-20 13:00:51.7689 Info Configuration initialized.
+2021-12-20 13:00:51.7776 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-20 13:08:40.4207 Info Message Template Auto Format enabled
+2021-12-20 13:08:40.4429 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 13:08:40.4979 Info Adding target FileTarget(Name=allfile)
+2021-12-20 13:08:40.5035 Info Adding target FileTarget(Name=ownFile-web)
+2021-12-20 13:08:40.5035 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-12-20 13:08:40.5477 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=58, FilePath=/app/bin/Debug/netcoreapp3.1/NLog.config
+2021-12-20 13:08:40.5736 Info Configuration initialized.
+2021-12-20 13:08:40.5846 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
