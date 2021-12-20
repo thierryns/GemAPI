@@ -1,0 +1,24 @@
+2021-12-20 12:27:35.5962 Info Message Template Auto Format enabled
+2021-12-20 12:27:35.6213 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 12:27:35.6737 Info Adding target FileTarget(Name=allfile)
+2021-12-20 12:27:35.6737 Info Adding target FileTarget(Name=ownFile-web)
+2021-12-20 12:27:35.6838 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-12-20 12:27:35.7206 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=58, FilePath=/app/bin/Debug/netcoreapp3.1/NLog.config
+2021-12-20 12:27:35.7456 Info Configuration initialized.
+2021-12-20 12:27:35.7561 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-20 12:27:58.7992 Info Message Template Auto Format enabled
+2021-12-20 12:27:58.8170 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 12:27:58.8683 Info Adding target FileTarget(Name=allfile)
+2021-12-20 12:27:58.8738 Info Adding target FileTarget(Name=ownFile-web)
+2021-12-20 12:27:58.8738 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-12-20 12:27:58.9133 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=58, FilePath=/app/bin/Debug/netcoreapp3.1/NLog.config
+2021-12-20 12:27:58.9378 Info Configuration initialized.
+2021-12-20 12:27:58.9498 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2021-12-20 12:29:18.1636 Info Message Template Auto Format enabled
+2021-12-20 12:29:18.1830 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 12:29:18.2366 Info Adding target FileTarget(Name=allfile)
+2021-12-20 12:29:18.2426 Info Adding target FileTarget(Name=ownFile-web)
+2021-12-20 12:29:18.2426 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-12-20 12:29:18.2912 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=58, FilePath=/app/bin/Debug/netcoreapp3.1/NLog.config
+2021-12-20 12:29:18.3187 Info Configuration initialized.
+2021-12-20 12:29:18.3288 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
