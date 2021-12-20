@@ -6,7 +6,7 @@ https://github.com/gem-spaas/powerplant-coding-challenge
 PRE-REQ
 - Visual Studio 2022 Community Edition
 - ensure you have .Net core SDK 3.1.22 installed
-- installed Docker is installed and ready to be used (I have used Windows 10 + Docker Desktop 4.3.1)
+- ensure Docker is installed and ready to be used (I have used Windows 10 + Docker Desktop 4.3.1)
 
 HOW TO USE
 1) Download source code and RUN in DEBUG MODE in Visual Studio
